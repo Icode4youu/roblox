@@ -1,0 +1,30 @@
+{
+	"Lua.diagnostics.globals": [
+		"game",
+		"script",
+		"workspace",
+		"plugin",
+		"Instance",
+		"Enum",
+		"Vector3",
+		"Vector2",
+		"CFrame",
+		"Color3",
+		"BrickColor",
+		"UDim2",
+		"UDim",
+		"Rect",
+		"Ray",
+		"NumberRange",
+		"NumberSequence",
+		"ColorSequence",
+		"TweenInfo",
+		"DateTime",
+		"warn",
+		"tick",
+		"task",
+		"typeof",
+		"require"
+	],
+	"Lua.runtime.version": "Lua 5.1"
+}
